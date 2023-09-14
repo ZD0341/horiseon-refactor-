@@ -1,6 +1,8 @@
 # horiseon-refactor-
 
-Description-- 
+## Description
+
+The intent of this was to clean up the CSS code by combining selectors with commas, check for HTML items thats were unusable and give it back better then I got it. Solved the search engine Nav bar problem.
 
 changed title to "horiseon"
 
@@ -16,6 +18,8 @@ deleted- ".header h1 .seo {
 
 
 
-![snap shot](image.png)
+![snap shot](assets/images/image.png)
+
+
 
 
